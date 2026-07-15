@@ -1,13 +1,13 @@
 # LANScanner
 
-[English](README.md) | 中文
-
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](#)
 [![Zero Dependencies](https://img.shields.io/badge/依赖-零-brightgreen?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
+[English](README.md) | 中文
 
 零依赖的本地网络扫描器，发现局域网内的活跃设备并显示其 IP 与 MAC 地址。
 
